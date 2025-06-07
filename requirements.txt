@@ -1,0 +1,4 @@
+pyrit>=0.8.0
+ipykernel
+pandas
+pathlib
