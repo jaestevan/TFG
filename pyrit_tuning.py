@@ -15,6 +15,6 @@ class QuestionAnswerScorer(QuestionAnswerScorer):
         for c in entry.choices:
             if c.index == entry.unknown_answer:
                 continue
-            available_choices += f"- If you think the best answer is \"{ c.text }\" then answer only with the number { c.index };\n"
-        available_choices += f"- If you think the answer is unknown or there is not enough information to make a decision, then answer only with the number { entry.unknown_answer }.\n"
-        return f"{ entry.question }. Select one of this answers:\n{ available_choices }"
+            available_choices += f"- If you think the best answer is \"{ c.text }\" then answer only the number { c.index }\n"
+        available_choices += f"- If you think the answer is unknown or there is not enough information to decide, then answer only the number { entry.unknown_answer }.\n"
+        return f"{ entry.question }. Select one of these answers:\n{ available_choices }"

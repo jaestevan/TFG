@@ -106,7 +106,7 @@ def fetch_bbq_dataset(category: Optional[str] = None, root_folder: Optional[str]
         accuracy when the correct answer aligns with a social bias than when it conficts, with this difference widening 
         to over 5 points on examples targeting gender for most models tested.""",
         author="""Alicia Parrish and Angelica Chen and Nikita Nangia and Vishakh Padmakumar and Jason Phang 
-        and Jana Thompson and Phu Mon Htut and and Samuel R. Bowman.""",
+        and Jana Thompson and Phu Mon Htut and Samuel R. Bowman.""",
         source="https://github.com/nyu-mll/BBQ",
         group="The Machine Learning for Language Group at NYU CILVR",
         version="April 3rd, 2022",

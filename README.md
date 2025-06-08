@@ -34,7 +34,7 @@ This repository contains the artifacts used towards my Bachelor's Degree Thesis,
 
 ## Data
 
-  * **[data/bbq](data/bbq)** · A copy of the original BBQ files utilized for this work.
+  * **[data/bbq](data/bbq)** · A copy of the [original BBQ data files](https://github.com/nyu-mll/BBQ/tree/main/data) utilized for this work.
 
   * **[data/final](data/final)** · These are the files I produced during this work.
 
