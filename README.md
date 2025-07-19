@@ -1,6 +1,20 @@
 # Benchmarking Large Language Models toward reasoning fairness and unanticipated bias
 
-This repository contains the artifacts used towards my Bachelor's Degree Thesis, presented in June 2025 here: -tbd-
+This repository contains the artifacts used towards my Bachelor's Degree Thesis, presented June 16th, 2025.
+
+![](/img/jestevan-tfg-portada.png)
+**TL;DR**: Check this file [run-huggingface-bbqdataset-qascorer.ipynb](run-huggingface-bbqdataset-qascorer.ipynb) (If you want more details, keep reading).
+
+
+## Main Publication
+
+Published under [CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/) at [UOC](https://www.uoc.edu/en)'s public repository [O2](https://openaccess.uoc.edu) here: 
+  
+- **[Benchmarking Large Language Models toward reasoning fairness and unanticipated bias](https://hdl.handle.net/10609/153037)**
+
+```
+Estevan Estevan, José Antonio. 2025. "Benchmarking Large Language Models toward reasoning fairness and unanticipated bias". Universitat Oberta de Catalunya (UOC). https://hdl.handle.net/10609/153037
+```
 
 ## Main components
 
